@@ -25,6 +25,11 @@ a:hover {
   color: black;
 }
 
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
 
 /*img {
   height: 30px;
