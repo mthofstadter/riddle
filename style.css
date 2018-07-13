@@ -16,6 +16,10 @@ h2 {
   font-size: 20px;
 }
 
+h3 {
+  text-align: center;
+}
+
 a {
   text-decoration: none;
   color: white;
@@ -27,7 +31,6 @@ a:hover {
 
 p {
   text-align: center;
-  font-weight: bold;
 }
 
 
